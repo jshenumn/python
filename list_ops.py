@@ -22,7 +22,7 @@ cnt = office.count(1902)
 print('count occurrence of elements', office, cnt)
 office_copy = office.copy()
 print('shallow copy', office_copy)
-
+print('Test completed')
 
 
 
